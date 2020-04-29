@@ -1,0 +1,16 @@
+{
+    "name": "modostudio/documentstorage",
+    "version": "1.2.1",
+    "description": "A Simple Document Storage",
+    "keywords": ["documents", "storage"],
+    "require": {
+        "php": ">=7.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Marcin Grabowski",
+            "email": "marcin.grabowski@modostudio.pl"
+        }
+    ]
+}
